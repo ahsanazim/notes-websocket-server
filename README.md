@@ -1,9 +1,3 @@
-# starter express app template
+# utilized websockets and mongo to create a simple realtime backend
 
-* node with babel
-* expressjs
-* airbnb eslint rules
-
-Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
-
-
+for the live note taking app located here []().
