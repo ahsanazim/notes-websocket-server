@@ -4,7 +4,7 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 import mongoose from 'mongoose';
-import Notes from './controllers/note_controller.js';
+import * as Notes from './controllers/note_controller';
 
 // DB Setup
 const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost/notes';
